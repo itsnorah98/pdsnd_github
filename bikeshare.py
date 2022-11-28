@@ -99,7 +99,7 @@ def time_stats(df):
 
     # TO DO: display the most common day of week
     most_com_day_of_week = df['day_of_week'].mode()[0]
-    print('the most common day of week: ', most_com_day_of_week)
+    print('the most common day of week: '.format(most_com_day_of_week))
 
     # TO DO: display the most common start hour
     df['hour']= df['Start Time'].dt.hour
