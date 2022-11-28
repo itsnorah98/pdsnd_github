@@ -4,7 +4,8 @@
 the project and the README file was created in November 28, 2022.
 
 
-#Explore US Bikeshare Data.
+### Project title
+Explore US Bikeshare Data
 
 ### Description
 This project will explore US Bikeshare Data for three cities in the United States (Chicago, New York City, and Washington) by using descriptive statistics to answer interesting questions.In addition, I have created an interactive experience to show the statistics results based on user raw input.
